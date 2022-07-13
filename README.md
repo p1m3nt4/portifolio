@@ -1,1 +1,1 @@
-# portifolio
+# easy-portfolio
